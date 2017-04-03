@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[DBFunCollect SaveUnitImageURL:FieldName:URL:]:DBFunCollect.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[UnitListTableViewController UpLoadMediaInfo:]:UnitListTableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__78-[UnitListTableViewController observeValueForKeyPath:ofObject:change:context:]_block_invoke:UnitListTableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__43-[UnitListTableViewController stateButton:]_block_invoke.218:UnitListTableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[UnitListTableViewController tableView:commitEditingStyle:forRowAtIndexPath:]:UnitListTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "unitlist[indexPath.row]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[UnitListTableViewController observeValueForKeyPath:ofObject:change:context:]:UnitListTableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[UnitListTableViewController stateButton:]:UnitListTableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[LoginViewController InitData]:LoginViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[UnitListTableViewController viewDidLoad]:UnitListTableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__42-[UnitListTableViewController UpLoadUnit:]_block_invoke:UnitListTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[InfoUnit tableView:cellForRowAtIndexPath:]:InfoUnit.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[InfoUnit savebutton:]:InfoUnit.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "send">
+            </PersistentString>
+            <PersistentString
+               value = "fieldinfo">
+            </PersistentString>
+            <PersistentString
+               value = "_TypeInfo">
+            </PersistentString>
+            <PersistentString
+               value = "groupList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[InfoUnit prepareForSegue:sender:]:InfoUnit.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "segue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__51-[MediaTableViewController prepareForSegue:sender:]_block_invoke:MediaTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_InfoUnit.mediainfos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SetTableViewController getPathData]:SetTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "c_DocumentsDirectory">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__43-[UnitListTableViewController stateButton:]_block_invoke:UnitListTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "requestinfounit">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[InfoUnit viewDidLoad]:InfoUnit.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "groupList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

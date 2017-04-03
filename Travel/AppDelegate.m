@@ -7,6 +7,7 @@
 //
 
 #import "AppDelegate.h"
+#import "CollectInit.h"
 
 @interface AppDelegate ()
 
@@ -17,7 +18,22 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    
+    [[CollectInit alloc] InitData];
+    _mapManager = [[BMKMapManager alloc]init];
+    // 如果要关注网络及授权验证事件，请设定     generalDelegate参数
+    BOOL ret = [_mapManager start:@"9l4t6GKvepQXgy8HY5kEheNEpPsVUOkX"  generalDelegate:nil];
+    if (!ret) {
+        NSLog(@"manager start failed!");
+    } else {
+        NSLog(@"manager start success!");
+    }
+    // Add the navigation controller's view to the window and display.
+    [self.window addSubview:navigationController.view];
+    [self.window makeKeyAndVisible];
     return YES;
+    
+    
 }
 
 

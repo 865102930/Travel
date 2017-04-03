@@ -1,0 +1,15 @@
+/* 
+  collect.strings
+  旅游资源采集
+
+  Created by Alonezzz on 2017/3/14.
+  Copyright © 2017年 浙江智旅信息有限公司. All rights reserved.
+*/
+
+"Login.OffLine"                 = "离线";
+"Login.OnLine"                  = "在线";
+
+"Interface.NetWorkError"        = "接口错误";
+
+"Common.AlterTitle"             = "采集系统";
+"Common.AlterOK"                = "确定";
